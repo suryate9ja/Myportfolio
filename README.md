@@ -19,12 +19,6 @@ Welcome to my GitHub! I'm passionate about uncovering meaningful insights from c
 * **Hypothesis Testing** (Yulu)
 * **Confidence Intervals & CLT** (Walmart)
 * **Descriptive Statistics & Probability** (Aerofit)
-* **SQL Data Manipulation** (Target)
-* **Mouse Tracking & Gesture Recognition**
-* **Twitter Data Scraping & Sentiment Analysis**
 
-### 📫 Contact
-
-* **Email:** [suryatejgarikipati@gmail.com](mailto:suryatejgarikipati@gmail.com)
 
 
